@@ -1,4 +1,4 @@
-# Course_Python_for_Data_Analysis
+# Python for Data Analysis
 This repository contains the coursework of Python for Data Analysis by Wes McKinney.
 
 Chronological format:
